@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-srivastava-dev&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-srivastava-dev" /> </p>
 
-- 🌱 I’m currently learning **React, Node JS for the front-end development**
+- 🌱 I’m currently learning **Angular, Node JS for the front-end development**
+- 🌱 Experience with **Springboot back-end development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suyash-srivastava-dev](https://github.com/suyash-srivastava-dev)
 
