@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-srivastava-dev&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-srivastava-dev" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently student of **Artificial Intelligence**
 - 🌱 Experience with **Springboot back-end development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suyash-srivastava-dev](https://github.com/suyash-srivastava-dev)
