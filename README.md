@@ -39,7 +39,7 @@
     </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash-srivastava-dev&show_icons=true&locale=en&layout=compact" alt="suyash-srivastava-dev" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash-srivastava-dev&show_icons=true&locale=en&layout=compact" alt="suyash-srivastava-dev" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyash-srivastava-dev&show_icons=true&locale=en" alt="suyash-srivastava-dev" /></p>
 
