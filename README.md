@@ -1,50 +1,88 @@
-<h1 align="center">Hi 👋, I'm Suyash Srivastava</h1>
+<div align="center">
+  <h1>Hi, I'm Suyash Srivastava 👋</h1>
+  <h3>Senior Software Engineer | M.Tech in AI | Full-Stack Developer</h3>
+</div>
 
-<h3 align="center">A passionate full-stack developer from India</h3>
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-srivastava-dev&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-srivastava-dev" /> </p>
 
-- 🌱 I’m currently student of **Artificial Intelligence**
-- 🌱 Exploring in **Generative Models, Large Language Models, Natural Language Processing**
-- 🌱 Experience with **Springboot back-end development**
+<p>
+  A results-driven Senior Software Engineer with a strong background in building scalable microservices, AI-driven applications, and robust CI/CD pipelines. Currently at <b>Stryker</b>, I lead technical migrations and architect data preprocessing models for medical planning software.
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/suyash-srivastava-dev](https://github.com/suyash-srivastava-dev)
+<h3>🚀 Quick Bio</h3>
+<ul>
+  <li><b>Currently at Stryker:</b> Leading the BACS Phase 2 migration and optimizing GitLab CI/CD workflows.</li>
+  <li><b>AI Specialist:</b> Hold an <b>M.Tech in AI</b> from NIT Hamirpur; published research on knowledge distillation.</li>
+  <li><b>Full-Stack Developer:</b> Experienced in <b>Django, FastAPI, and Angular</b> for clinical-grade data platforms.</li>
+  <li><b>DevOps & Infrastructure:</b> Expertise in Docker containerization, GitLab CI/CD, and cloud environments.</li>
+</ul>
 
+<h3>🛠️ Tech Stack & Tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
-  <ul>
-    <li>
-    <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-    </li>
-    <li>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-       <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-       <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-          <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-           </li> <li>
-      <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-      <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-       <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-        <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-        </li> <li>
-      <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-       <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>          
-        <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-        <a href="https://postman.com" arget="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-        <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    </li>
-    </ul>
-    </div>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI/ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
+    </td>
+  </tr>
+</table>
 
+<h3>🌟 Featured Projects</h3>
+<ul>
+  <li><b>WhatsApp AI Bookmark Assistant:</b> AI-powered bot using Twilio and Gemini LLM to summarize web/video content.</li>
+  <li><b>Full-Stack Image Annotation Platform:</b> Data labeling tool for AI model training integrated with Pinata IPFS storage.</li>
+  <li><b>Inventory Management System:</b> Containerized Django application for real-time stock and supplier tracking.</li>
+  <li><b>DICOM Security Module:</b> Medical imaging module for de-identification and PHI encryption for HIPAA compliance.</li>
+</ul>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash-srivastava-dev&show_icons=true&locale=en&layout=compact" alt="suyash-srivastava-dev" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyash-srivastava-dev&show_icons=true&locale=en" alt="suyash-srivastava-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-srivastava-dev&" alt="suyash-srivastava-dev" /></p>
-
+<h3>📫 Get in Touch</h3>
+<ul>
+  <li><b>Email:</b> suyashmtech@gmail.com</li>
+  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/suyash-srivastava-dev">suyash-srivastava-dev</a></li>
+</ul>
